@@ -1,0 +1,11 @@
+,voter_id,Name,Gender,Zone,City,Passw,hasVoted
+0,10001,Epenorch,Male,West,Bulawayo,abcd,1
+1,10002,Nyasha,Male,South,Masvingo,abcd,1
+2,10003,Samuel,Male,East,Harare,abcd,1
+3,10004,Jonah,Male,East,Gweru,abcd,0
+4,10005,Rachael,Female,North,Mutare,abcd,0
+5,10006,Ropafadzo,Female,Harare,Harare,abcd,0
+6,10007,Tanaka,Male,West,Beitbridge,abcd,1
+7,10008,Percey,Male,West,Chimanimani,abcd,1
+8,10009,Hana,Female,Chivhu,Masvingo,abcd,1
+9,10010,Gomo,Male,East,Bindura,abcd,1
